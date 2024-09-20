@@ -22,7 +22,7 @@ app.use(cors())
 
 // For Testing
 app.get("/", async (req, res) => {
-    res.send("Home page of tourist wheel")
+    res.send("Home page")
 })
 
 
